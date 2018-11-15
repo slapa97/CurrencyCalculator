@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CurrencyCalculator</string>
+
+    <string-array name="spinnerItems">
+        <item>złoty (Polska)</item>
+        <item>"bat (Tajlandia)"</item>
+        <item>"dolar amerykański"</item>
+        <item>"dolar australijski"</item>
+        <item>"dolar Hongkongu"</item>
+        <item>"dolar kanadyjski"</item>
+        <item>"dolar nowozelandzki"</item>
+        <item>"dolar singapurski"</item>
+        <item>"euro"</item>
+        <item>"forint (Węgry)"</item>
+        <item>"frank szwajcarski"</item>
+        <item>"funt szterling"</item>
+        <item>"hrywna (Ukraina)"</item>
+        <item>"jen (Japonia)"</item>
+        <item>"korona czeska"</item>
+        <item>"korona duńska"</item>
+        <item>"korona islandzka"</item>
+        <item>"korona norweska"</item>
+        <item>"korona szwedzka"</item>
+        <item>"kuna (Chorwacja)"</item>
+        <item>"lej rumuński"</item>
+        <item>"lew (Bułgaria)"</item>
+        <item>"lira turecka"</item>
+        <item>"nowy izraelski szekel"</item>
+        <item>"peso chilijskie"</item>
+        <item>"peso meksykańskie"</item>
+        <item>"piso filipińskie"</item>
+        <item>"rand (Republika Południowej Afryki)"</item>
+        <item>"real (Brazylia)"</item>
+        <item>"ringgit (Malezja)"</item>
+        <item>"rubel rosyjski"</item>
+        <item>"rupia indonezyjska"</item>
+        <item>"rupia indyjska"</item>
+        <item>"won południowokoreański"</item>
+        <item>"yuan renminbi (Chiny)"</item>
+        <item>"SDR (MFW)"</item>
+    </string-array>
+</resources>
